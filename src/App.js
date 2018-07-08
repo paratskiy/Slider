@@ -31,7 +31,7 @@ const MainWrapper = styled.main`
 		background-size: cover;
 `
 
-class App extends Component {
+class App extends React.Component {
 	render() {
 		return (
 				<div className="App">
